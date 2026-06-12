@@ -392,11 +392,11 @@ for (int i = 1; i < n; i++) {
 
                       <div className="cp-stats-grid">
                         <div className="cp-stat-item">
-                          <span className="val">150+</span>
+                          <span className="val">50+</span>
                           <span className="lbl">Solved</span>
                         </div>
                         <div className="cp-stat-item">
-                          <span className="val">1251</span>
+                          <span className="val">1000</span>
                           <span className="lbl">Max Rating</span>
                         </div>
                         <div className="cp-stat-item">
@@ -438,15 +438,15 @@ for (int i = 1; i < n; i++) {
 
                       <div className="cp-stats-grid">
                         <div className="cp-stat-item">
-                          <span className="val">100+</span>
+                          <span className="val">50+</span>
                           <span className="lbl">Solved</span>
                         </div>
                         <div className="cp-stat-item">
-                          <span className="val">1488</span>
-                          <span className="lbl">Rating (2★)</span>
+                          <span className="val">1304</span>
+                          <span className="lbl">Rating (1★)</span>
                         </div>
                         <div className="cp-stat-item">
-                          <span className="val">1488</span>
+                          <span className="val">1304</span>
                           <span className="lbl">Max Rating</span>
                         </div>
                       </div>
